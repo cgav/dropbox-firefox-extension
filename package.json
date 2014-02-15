@@ -2,7 +2,7 @@
 	"id": "jid1-QhtEU1UQZ8IGmg",
 	"author": "Constantin Gavrilete",
 	"license": "MPL 2.0",
-	"name": "Dropbox-Firefox-Extension",
+	"name": "dropbox-firefox-extension",
 	"fullName": "Dropbox-Firefox-Extension",
 	"version": "0.0.1",
 	"description": "Simply tries to get the Dropbox Datastore API to work.",
